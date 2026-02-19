@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include "commands.h"
+#include "objectStore.h"
 
 // This is the entry point, git to start needs
 // to be initialized, here is where that is checked and 
