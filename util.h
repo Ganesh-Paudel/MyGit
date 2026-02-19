@@ -1,5 +1,5 @@
-#ifndef OBJECTSTORE_H
-#define OBJECTSTORE_H
+#ifndef UTIL_H
+#define UTIL_H
 
 void bytesToHex(const unsigned char* bytes, char* hexOut);
 void hexToBytes(const char* hexIn, unsigned char* bytesOut);
